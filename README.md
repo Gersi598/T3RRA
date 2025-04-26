@@ -60,7 +60,7 @@ Optional:
 
 ---
 
-##  Hardcore Mode Activated
+
 
 > "When the mission clock is ticking and there's no second chance...  
 > You don't **hope** for data.  
