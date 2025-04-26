@@ -1,9 +1,9 @@
-# ⚡ T3RRA ⚡  
+#  T3RRA   
 ### _Android Triage Rapid Retrieval Analysis_
 
 ---
 
-## 🧠 What is T3RRA?
+##  What is T3RRA?
 
 **T3RRA** is a battle-tested Android triage tool for forensic professionals, cyber operators, and those who **don't have time to play nice**.  
 It connects, extracts, and packages Android data at **warp speed** — designed for real-world field ops, triage missions, and on-the-spot investigations.
@@ -68,7 +68,7 @@ Optional:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 python3 t3rra.py
